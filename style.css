@@ -356,3 +356,26 @@ img {
     overflow: hidden;
     transition: 0.4s;
 }
+
+footer .copyright_text {
+  margin-top: 40px;
+}
+
+footer .copyright_text p {
+  color: #555;
+  padding: 30px 0;
+  margin: 0;
+}
+
+footer .copyright_text p a {
+  text-transform: uppercase;
+  transition: 0.4s;
+  display: inline-block;
+  color: #555;
+  text-decoration: none;
+}
+
+footer .copyright_text p a:hover {
+  color: #ff214f;
+}
+
